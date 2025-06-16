@@ -75,7 +75,7 @@ graph LR
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/proceso-contratos-bpmn.git
+git clone https://github.com/RichardS-Groove/Proceso-de-Contratos-Edesur.git
 
 # Navegar al directorio
 cd proceso-contratos-bpmn
